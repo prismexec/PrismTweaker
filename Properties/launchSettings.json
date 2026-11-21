@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PrismTweaker": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
